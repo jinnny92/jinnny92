@@ -18,14 +18,14 @@
   <a href="https://www.instagram.com/gg_leeryu0201/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
   <a href="mailto:jinnny22@naver.com"><img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=naver&logoColor=white"></a>
 </div>
-
  <div>
- <img src= "https://github-readme-stats.vercel.app/api?username=jinnny92"
- (https://github.com/jinnny92/github-readme-stats)/> <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=jinnny92&layout=compact"(https://github.com/jinnny92/github-readme-stats)/>
-
+  <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=jinnny92&layout=compact"/>
+ <img src= "https://github-readme-stats.vercel.app/api?username=jinnny92&show_icons=true&theme=dark"/> 
  </div>
  </div>
 
+
+ 
 <footer>
  <img src = "https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=footer">
 </footer>
